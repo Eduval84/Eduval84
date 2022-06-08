@@ -6,7 +6,7 @@ I'm a Software engineer with experience in Team and project manegement. I'm a Ba
 
 👀 I’m interested in software development.
 
-💬 Ask me about Xtreme programming, C#, Software design, Design patterns, TDD, Support service, Proyect Managing ...
+💬 Ask me about C#, Software design, Design patterns, TDD,Xtreme programming, Proyect Managing ...
 
 💞️ I’m looking to collaborate on all i can help
 
