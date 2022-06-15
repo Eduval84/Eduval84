@@ -8,8 +8,6 @@ I'm a Software engineer with experience in Team and project manegement. I'm a Ba
 
 💬 Ask me about C#, Software design, Design patterns, TDD,Xtreme programming, Proyect Managing ...
 
-💞️ I’m looking to collaborate on all i can help
-
 ⚡ Useful Link: [Linkedin](https://www.linkedin.com/in/eduardovalderramamurillo/)
 
 <!--
