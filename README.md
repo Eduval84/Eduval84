@@ -10,8 +10,6 @@ I'm a Software engineer with experience in Team and project manegement. I'm a Ba
 
 ⚡ Useful Link: [Linkedin](https://www.linkedin.com/in/eduardovalderramamurillo/)
 
-![](https://github-readme-stats.vercel.app/api?username=eduval84&show_icons=true&theme=default)
-
 <!--
 **Eduval84/Eduval84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
